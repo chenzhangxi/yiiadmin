@@ -22,7 +22,7 @@
  - 3.修改数据库链接配置 `/backend/config/main.php:15`
  - 4. 配置完成 访问地址: `backend/web/index.php`   默认管理员：admin     密码； 123456
 
-没有安装composer,完整版下载 [http://pan.baidu.com/s/1jIJlufG 密码: 6wqh](链接: http://pan.baidu.com/s/1jIJlufG)
+没有安装composer,完整版下载 [http://pan.baidu.com/s/1jIJlufG 密码: 6wqh](http://pan.baidu.com/s/1jIJlufG)
 
 欢迎大家一起来学习！
  
