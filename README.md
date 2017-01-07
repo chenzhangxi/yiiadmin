@@ -1,8 +1,12 @@
 ###YII-ADMIN
+
 采用  [yii2](https://github.com/yiisoft/yii2)  + [aceAdmin](https://git.oschina.net/liushoukun/aceadmin.git)  开发的后台管理系统。
 包括了用户,角色，权限管理；
+
 ###项目说明
+
 >此项目只是一个后台系统，并无前台，请根据自己的业务需要进行添加
+
 ###项目图片
 ![image](./doc/yiiadmin/1.png)
 ![image](./doc/yiiadmin/2.png)
@@ -12,6 +16,7 @@
 
 ###安装说明
 >需要先 `composer install` 安装yii2
+
  - 1.设置 cookieValidationKey  `/backend/config/main.php:54`
  - 2.数据库导入 `/doc/yiiadmin.sql`
  - 3.修改数据库链接配置 `/backend/config/main.php:15`
