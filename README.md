@@ -3,6 +3,7 @@
 采用  [yii2](https://github.com/yiisoft/yii2)  + [aceAdmin](https://git.oschina.net/liushoukun/aceadmin.git)  开发的后台管理系统。
 包括了用户,角色，权限管理；
 
+[github](https://github.com/doudou1688/yiiadmin.git) [oschina](https://git.oschina.net/liushoukun/yiiadmin.git)
 ###项目说明
 
 >此项目只是一个后台系统，并无前台，请根据自己的业务需要进行添加
